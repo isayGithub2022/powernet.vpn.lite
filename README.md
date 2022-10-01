@@ -1,1 +1,1 @@
-# powernet.vpn.lite
+# powernet.vpn.litesample
